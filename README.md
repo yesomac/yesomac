@@ -10,7 +10,7 @@
   }
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yesomac&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yesomac&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesomac&layout=compact)](https://github.com/yesomac/github-readme-stats)
 
 <!--
