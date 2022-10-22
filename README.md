@@ -10,8 +10,12 @@
   }
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yesomac&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesomac&layout=compact)](https://github.com/yesomac/github-readme-stats)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yesomac&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesomac&layout=compact)](https://github.com/yesomac/github-readme-stats)-->
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesomac&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesomac&layout=compact&show_icons=true&theme=tokyonight" />
 
 <!--
 **yesomac/yesomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
